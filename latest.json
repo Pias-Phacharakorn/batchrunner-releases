@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.0",
+  "latestVersion": "1.1",
   "downloadNote": "Download the installer from https://github.com/Pias-Phacharakorn/batchrunner-releases/releases/latest",
   "allowedUntil": "2027-10-01",
   "minVersion": null,
   "versionExpiry": {},
-  "message": null
+  "message": "BatchRunner 1.1 is available - please update."
 }
