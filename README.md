@@ -3,7 +3,7 @@
 ## Overview
 
 Public release channel for the **BatchRunner** Revit 2026 add-in. The add-in's source is
-private (`PIAS-RevitAddInC`); this repo holds only what installed copies and users need: the
+private; this repo holds only what installed copies and users need: the
 installers (as GitHub Releases) and `latest.json`, the update and expiry policy every
 installed copy reads at startup.
 
